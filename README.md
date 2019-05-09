@@ -3,6 +3,8 @@ this is angular grid sample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
+sample for reference from [Introduction to Angular Grid](https://medium.com/@swathisprasad/introduction-to-angular-grid-bc96548ee24a)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
